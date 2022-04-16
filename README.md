@@ -1,4 +1,4 @@
-<h1 align="center">RAXE (retard)</h1>
+<h1 align="center">RAXE</h1>
 <div align="center">
     <a href="https://discord.com/users/959545627207942265" title="Discord Profile"><img src="https://lanyard.cnrad.dev/api/959545627207942265"></a>
 </div>
